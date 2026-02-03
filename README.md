@@ -1,3 +1,9 @@
+⚠️ **NOT actively maintained**  
+This repo exists for historical reference and experiments.
+
+👉 For the current portfolio, see:  
+https://github.com/yourname/portfolio-main
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
