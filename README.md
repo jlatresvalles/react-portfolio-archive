@@ -2,7 +2,7 @@
 This repo exists for historical reference and experiments.
 
 👉 For the current portfolio, see:  
-https://github.com/yourname/portfolio-main
+https://github.com/yourname/personal-portfolio
 
 # React + Vite
 
